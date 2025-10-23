@@ -17,23 +17,12 @@
 
 ## 🚧 현재 진행 중
 - 2026년 1월 오픈 목표 서버 제작 중 (완성도 15%)
-- 경제/거래/패키지·가챠·경매·핫타임 등 HM 플러그인 생태계 고도화
 
 ``█░░░░░░░░░░░ 15%``
 
 ## 🧰 사용 스택
-`Java` `Kotlin` `Gradle` `Maven` `Paper/Purpur` `Vault` `ProtocolLib` `MMOItems` `PlaceholderAPI` `MySQL` `SQLite`
+`Java` `Kotlin` `MySQL` `SQLite`
 
-## 🧩 대표 작업
-- HMStock — 주식 GUI, 평균회귀 가격 엔진, 포트폴리오 지표
-- HMAuction — 수수료/예치/재등록, 우편 연동 경매장
-- HMPackage — 애니메이션 개봉, 미리보기, 쿨타임/제한
-- HMItemSelect — 조건부 아이템 선택권, 프리뷰 GUI
-- HMHotTime — 시간 한정 보상, 전 서버 공지/자막
-- HMLands/HMSoulBoundShop/HMCazino 등 다수
-
-원하는 레포로 링크만 걸면 됨:
-- `[HMAuction](https://github.com/YOUR_ID/HMAuction)` 등으로 교체
 
 ## 📌 빠른 소개
 - 마인크래프트 서버/플러그인 UX 중시: 직관적 GUI, 실시간 로어 갱신, 페이지네이션
