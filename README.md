@@ -39,7 +39,6 @@
 
 ## 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haemin0113&show_icons=true&rank_icon=github&include_all_commits=true" />
   <img src="https://streak-stats.demolab.com?user=haemin0113" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haemin0113&layout=compact" />
 </div>
@@ -48,6 +47,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haemin0113&hide_border=true&radius=8" />
 </div>
-
-## 📮 연락
-프로젝트 의뢰/협업은 상단 배지 또는 이메일로 연락 바랍니다.
