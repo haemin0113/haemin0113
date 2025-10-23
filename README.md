@@ -5,7 +5,7 @@
 - 2026년 1월 오픈할 서버 제작 중(완성도 15%)
 
 ## 사용 언어
-`Java` 언어를 기반으로 플러그인을 제작합니다.
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 언어를 기반으로 플러그인을 제작합니다.
 
 ## 간단한 경력 소개
 - 2020년 07월 ~ 서버 개발 시작
@@ -15,4 +15,5 @@
 
 ## Links
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haemin.kim52@gmail.com)](haemin.kim52@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://haemin1.notion.site/27e87de6a481803cba6cefc0291f0306?v=28187de6a481808d9f16000c0b8705df)](https://haemin1.notion.site/27e87de6a481803cba6cefc0291f0306?v=28187de6a481808d9f16000c0b8705df) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCAtXOzY2Jnh7RYYD1D6FVZg)](https://www.youtube.com/channel/UCAtXOzY2Jnh7RYYD1D6FVZg)
+  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://haemin1.notion.site/27e87de6a481803cba6cefc0291f0306?v=28187de6a481808d9f16000c0b8705df)](https://haemin1.notion.site/27e87de6a481803cba6cefc0291f0306?v=28187de6a481808d9f16000c0b8705df)
+  [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCAtXOzY2Jnh7RYYD1D6FVZg)](https://www.youtube.com/channel/UCAtXOzY2Jnh7RYYD1D6FVZg)
