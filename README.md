@@ -14,4 +14,4 @@
 - 2025년 07월 ~ 1인 개발 서버 오픈(동접자 30~40명)
 
 ## Links
-[포트폴리오](https://haemin1.notion.site/27e87de6a481803cba6cefc0291f0306?v=28187de6a481808d9f16000c0b8705df) · [유튜브]([https://youtube.com/channel/UCAtXOzY2Jnh7RYYD1D6FVZg/]) · haemin.kim52@gmail.com
+[포트폴리오](https://haemin1.notion.site/27e87de6a481803cba6cefc0291f0306?v=28187de6a481808d9f16000c0b8705df) · [유튜브](https://youtube.com/channel/UCAtXOzY2Jnh7RYYD1D6FVZg/) · haemin.kim52@gmail.com
