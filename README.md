@@ -18,14 +18,14 @@
 ## 🚧 현재 진행 중
 - 2026년 1월 오픈 목표 서버 제작 중 (완성도 15%)
 
-<div align="left">
-  <div style="width:100%;max-width:520px;background:#e5e7eb;border-radius:10px;overflow:hidden;">
-    <div style="width:15%;height:12px;background:#f59e0b;"></div>
-  </div>
-</div>
+## 🗓 간단한 경력
+- 2020.07 ~ 서버 개발 시작  
+- 2023.03 ~ 정보보호학 전공(휴학)  
+- 2025.05 ~ 플러그인 개발 시작  
+- 2025.07 ~ 09 1인 개발 서버 오픈(동시접속 30~40명)
 
-## 🧰 사용 스택
-`Java` `Kotlin` `MySQL` `SQLite`
+## 🧰 사용 언어
+`Java` `Kotlin` 를 이용한 플러그인 개발
 
 ## 🧩 대표 작업
 - GuildPlus — 길드 관리, 권한/랭크, 보상 설계
@@ -48,12 +48,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haemin0113&hide_border=true&radius=8" />
 </div>
-
-## 🗓 간단한 경력
-- 2020.07 ~ 서버 개발 시작  
-- 2023.03 ~ 정보보호학 전공(휴학)  
-- 2025.05 ~ 플러그인 개발 시작  
-- 2025.07 ~ 09 1인 개발 서버 오픈(동시접속 30~40명)
 
 ## 📮 연락
 프로젝트 의뢰/협업은 상단 배지 또는 이메일로 연락 바랍니다.
