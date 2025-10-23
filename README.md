@@ -1,17 +1,14 @@
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
-<p align="center">Minecraft plugin dev · Backend · Open Source</p>
+<h1 align="center">안녕하세요 해민입니다. 👋</h1>
+<p align="center">마인크래프트 서버 개발자 및 플러그인 개발자</p>
 
 ## About
-- HM 플러그인 생태계 개발 중
-- 관심사: 고성능 Paper/Purpur 플러그인, 경제/경매/패키지 시스템, GUI/UX
+- 2026년 1월 오픈할 서버 제작 중
+- 현재 완성도 15%
 
 ## Tech
-`Java` `Kotlin` `Gradle` `Maven` `Paper/Purpur` `Vault` `MMOItems` `ProtocolLib` `MySQL` `SQLite`
+`Java` 언어를 기반으로 합니다.
 
 ## Featured
-- [HMAuction](https://github.com/USER/HMAuction) – 수수료/재등록/우편 연동 경매장
-- [HMStock](https://github.com/USER/HMStock) – 주식·GUI·평균회귀 가격엔진
-- [HMPackage](https://github.com/USER/HMPackage) – 패키지/애니메이션/미리보기
 
 ## Highlights
 - ⭐ Top project: HMAuction (stars: N)
